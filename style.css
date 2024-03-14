@@ -1,0 +1,22 @@
+*{
+    background :pink;
+    color:aqua;
+    text-align: center;
+    text-shadow: ;
+}
+.div{
+    margin: auto;
+    width: max-content;
+}
+.image1{
+    height: 100px;
+    width: 100px;
+    margin-left: 500px;
+    border-radius: 50%; 
+    box-shadow: 5px 5px 5px green;
+}
+#image2{
+    padding: 50px;
+    height: 100px;
+    width: ;
+}
